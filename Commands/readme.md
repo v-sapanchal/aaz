@@ -86,8 +86,11 @@
 - [compute-recommender](/Commands/compute-recommender/readme.md)
 : Manage sku/zone/region recommender info for compute resources
 
+- [computeschedule](/Commands/computeschedule/readme.md)
+: Computeschedule batch virtual machine operations
+
 - [confidentialledger](/Commands/confidentialledger/readme.md)
-: Deploy and manage Azure confidential ledgers.
+: Manage Confidential Ledger
 
 - [confluent](/Commands/confluent/readme.md)
 : Manage confluent organization
@@ -266,6 +269,9 @@
 - [playwright-testing](/Commands/playwright-testing/readme.md)
 : Manage Microsoft Playwright Testing service
 
+- [portal](/Commands/portal/readme.md)
+: Manage Portal.
+
 - [powerbi](/Commands/powerbi/readme.md)
 : Manage PowerBI resources.
 
@@ -328,6 +334,12 @@
 
 - [stack-hci](/Commands/stack-hci/readme.md)
 : Manage Azure Stack HCI.
+
+- [standby-container-group-pool](/Commands/standby-container-group-pool/readme.md)
+: Standby Container Group Pool Operations
+
+- [standby-vm-pool](/Commands/standby-vm-pool/readme.md)
+: Standby Virtual Machine Pool Operations
 
 - [storage](/Commands/storage/readme.md)
 : Manage Azure Cloud Storage resources.

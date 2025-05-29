@@ -5,7 +5,7 @@ These commands require that both Azure Network Watcher is enabled for the VMs re
 ## Commands
 
 - [create](/Commands/network/network-watcher/packet-capture/_create.md)
-: Create and start a packet capture on the specified VM.
+: Create and start a packet capture on the specified VM and VMSS
 
 - [delete](/Commands/network/network-watcher/packet-capture/_delete.md)
 : Delete the specified packet capture session.
